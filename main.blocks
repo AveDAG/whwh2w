@@ -1,0 +1,17 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(8v51FGs8!L[@[CEV9FX">mySprite</variable></variables><block type="pxt-on-start" id="]+@{!@;zU5pFgOWGMg.*" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="5|9%4wKeC;s5PWlDZ3Ft"><field name="VAR" id="(8v51FGs8!L[@[CEV9FX">mySprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="1_=QK_QSIr}@C/^72`88"><value name="img"><shadow type="screen_image_picker" id="{NZTv6eFx?+r`sv%-,|R"><field name="img">img`
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . 2 . . . . . 2 . . 
+. . . . . . . . . . . 2 2 . . . . 
+. . . . . . . . . . . 2 . . . . . 
+. . . . . . . 2 . . . 2 2 2 2 2 3 
+. . . . . . . . . . 3 3 2 2 3 2 . 
+. . . . . . . . . . . 3 3 2 2 2 . 
+. . . . . . . . . . 3 3 3 3 2 2 . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind"/><block type="math_number" id="3/o5C;9;4OaYKxL!d+57"><field name="NUM">0</field></block></value></block></value></block></statement></block></xml>
